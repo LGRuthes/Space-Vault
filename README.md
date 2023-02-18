@@ -120,7 +120,7 @@ Foi feito um form com botões de input de texto e do tipo submit para enviar os 
  
 </div>
 
-Eu então enfeitie botando uma barra e um h2, depois criei uma div no qual iria mostrar a quantidade de aplicantes que tem, e as aplicações. Nisso também, foi colocado um botão de editar uma aplicação enviada, de salvar a versão nova da aplicação, e também de deleta-la, algo que pode ser melhor visto no Javascript.
+Eu então enfeitei botando uma barra e um h2, depois criei uma div no qual iria mostrar a quantidade de aplicantes que tem, e as aplicações. Nisso também, foi colocado um botão de editar uma aplicação enviada, de salvar a versão nova da aplicação, e também de deleta-la, algo que pode ser melhor visto no Javascript.
 
 <div class="bar"></div>
 
